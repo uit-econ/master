@@ -1,13 +1,13 @@
 ---
 title: SOK-XXX1 Økonometrisk analyse av tidsserier
 subtitle: 10 STP
-image: https://raw.githubusercontent.com/uit-econ/hovedside/main/assets/img/SOK-XXX1-Økonometrisk-analyse-av-tidsserier.png
-category: semester1
+image: https://raw.githubusercontent.com/uit-econ/hovedside/main/assets/img/SOK-XXX1.png
+category: semester2
 
 caption:
   title: SOK-XXX1 
   subtitle: Økonometrisk analyse av tidsserier
-  thumbnail: https://raw.githubusercontent.com/uit-econ/hovedside/main/assets/img/SOK-XXX1-Økonometrisk-analyse-av-tidsserier.png
+  thumbnail: https://raw.githubusercontent.com/uit-econ/hovedside/main/assets/img/SOK-XXX1.png
 ---
 
 
