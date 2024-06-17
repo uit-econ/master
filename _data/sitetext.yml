@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Samfunnsøkonomi"
     undertitle: "med datavitenskap"
-    text: "Bachelor"
+    text: "Master"
     button: 
     buttonlink: 
 
@@ -48,7 +48,7 @@ en: &DEFAULT_EN
     closebutton: "Lukk emne"
     
     
-  programbeskrivelse: "Bachelorstudiet i samfunnsøkonomi med datavitenskap ved Handelshøgskolen - UiT er et treårig studium. Totalt teller studiet 180 studiepoeng. </br> </br> Bachelorstudiet i samfunnsøkonomi med datavitenskap gir en innføring i samfunnsøkonomiske metoder og datavitenskapelige verktøy til å analysere både teoretiske og praktiske samfunnsøkonomiske problemstillinger. For å utføre analyser vil kandidatene lære å kode i programmeringsspråkene Python og R. Kandidater vil anvende digitale verktøy for å utføre egne analyser som presenteres i forskjellige formater, rettet mot ulike målgrupper. I løpet av bachelorprogrammet samler kandidatene en portefølje av arbeid som lagres som en digital dokumentasjon av de ferdighetene som de har tilegnet seg. "
+  programbeskrivelse: "Masterstudiet i samfunnsøkonomi med datavitenskap ved Handelshøgskolen - UiT er et toårig studium. Totalt teller studiet 120 studiepoeng. </br> </br> Bachelorstudiet i samfunnsøkonomi med datavitenskap innsikt i samfunnsøkonomiske metoder og datavitenskapelige verktøy til å analysere både teoretiske og praktiske samfunnsøkonomiske problemstillinger. Studiet bygger videre på det studentene har lært på bachelorprogrammet. Kandidater vil anvende digitale verktøy for å utføre egne analyser som presenteres i forskjellige formater, rettet mot ulike målgrupper."
         
 en-US:
   <<: *DEFAULT_EN
