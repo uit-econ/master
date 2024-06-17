@@ -1,12 +1,12 @@
 ---
-title: SOK-XXX4 Økonometrisk Analyse: Valg, Årsakssammenheng og Paneler
+title: SOK-XXX4 Økonometrisk Analyse- Valg, Årsakssammenheng og Paneler
 subtitle: 10 STP
 image: https://raw.githubusercontent.com/uit-econ/master/main/assets/img/SOK-XXX4.png
 category: semester3
 
 caption:
   title: SOK-XXX4 
-  subtitle: Økonometrisk Analyse: Valg, Årsakssammenheng og Paneler
+  subtitle: Økonometrisk Analyse - Valg, Årsakssammenheng og Paneler
   thumbnail: https://raw.githubusercontent.com/uit-econ/master/main/assets/img/SOK-XXX4.png
 ---
 
