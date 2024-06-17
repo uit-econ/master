@@ -1,0 +1,55 @@
+
+  
+  <!-- Header -->
+  <header class="masthead" id="masthead">
+    <div class="" id="masthead-container">
+
+	<!-- Start Navigation -->
+	<div class="topbar">
+	  <a href="mailto: hhcampus@hjelp.uit.no">Kontakt</a>	
+	  <a href="#services">Ressurser</a>
+	  <div class="dropdown">
+	    <button class="dropbtn">Emner
+	      <i class="fa fa-caret-down"></i>
+	    </button>
+	    <div class="dropdown-content">
+	      <a href="#semester-heading-1">Semester 1</a>
+	      <a href="#semester-heading-2">Semester 2</a>
+	      <a href="#semester-heading-3">Semester 3</a>
+	      <a href="#semester-heading-4">Semester 4</a>
+	      <a href="#semester-heading-5">Semester 5</a>
+	      <a href="#semester-heading-6">Semester 6</a>	    
+	    </div>
+	  </div>
+	</div>
+	  <!-- End Navigation -->
+	    
+	    
+      <div class="" id="masthead-title">
+	 {%- if site.data.sitetext[site.locale].header.title -%} 
+        <div class="">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
+	  {%- endif -%}
+	      
+	   <div class="" id="masthead-undertitle">
+	 {%- if site.data.sitetext[site.locale].header.undertitle -%} 
+        <div class="">{{ site.data.sitetext[site.locale].header.undertitle | markdownify }}</div>
+	  {%- endif -%}   
+	      
+	  {%- if site.data.sitetext[site.locale].header.text -%}
+        <div class="" id="masthead-text">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+	  {%- endif -%}
+	      
+	      
+	  {%- if site.data.sitetext[site.locale].header.button -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+	  {%- endif -%}
+      </div>
+    </div>
+  </header>
+  <!-- End Header -->
+
+
+
+
+
+	  
