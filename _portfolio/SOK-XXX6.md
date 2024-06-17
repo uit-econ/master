@@ -2,7 +2,7 @@
 title: SOK-XXX6 Forskningsmetode
 subtitle: 10 STP
 image: https://raw.githubusercontent.com/uit-econ/master/main/assets/img/SOK-XXX6.png
-category: semester2
+category: semester3
 
 caption:
   title: SOK-XXX6 

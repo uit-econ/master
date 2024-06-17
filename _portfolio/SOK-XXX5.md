@@ -2,7 +2,7 @@
 title: SOK-XXX5 Analyse og evaluering av økonomisk adferd
 subtitle: 10 STP
 image: https://raw.githubusercontent.com/uit-econ/master/main/assets/img/SOK-XXX5.png
-category: semester2
+category: semester3
 
 caption:
   title: SOK-XXX5 
