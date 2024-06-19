@@ -15,6 +15,6 @@ caption:
 window.open('https://uit.no/utdanning/emner/emne/842431/sok-3020');
 
 {% include nettsideApnerMid.html %} 
-observer.observe(document.getElementById("Sok-3020").children[0], { attributes: true } );
+observer.observe(document.getElementById("SOK-3020").children[0], { attributes: true } );
 
 {% include nettsideApnerBunn.html %}
